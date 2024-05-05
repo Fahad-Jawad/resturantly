@@ -1,0 +1,18 @@
+.orders{
+    border-color: #cda45e;
+   color:#cda45e ;
+}
+.orders>thead
+{
+background-color: #cda45e;
+color: black;
+
+}
+tr,td{
+    border-width: 1px;
+}
+.table-hover tbody tr:hover{
+    background-color: #cda45e;
+color: black;
+border-color: black;
+}
